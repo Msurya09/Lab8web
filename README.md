@@ -29,7 +29,7 @@ Buat file baru dengan nama index.php
 Menambah Data (Create)
 Buat file baru dengan nama tambah.php
 
-![gambar10](screenshoot/10png)
+![gambar10](screenshoot/10.png)
 ![gambar11](screenshoot/11.png)
 ![gambar12](screenshoot/12.png)
 ![gambar20](screenshoot/20.png)
@@ -37,7 +37,7 @@ Buat file baru dengan nama tambah.php
 Mengubah Data (Update)
 Buat file baru dengan nama ubah.php
 
-![gambar15](screenshoot/15png)
+![gambar15](screenshoot/15.png)
 ![gambar16](screenshoot/16.png)
 ![gambar17](screenshoot/17.png)
 ![gambar18](screenshoot/18.png)
